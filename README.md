@@ -1,2 +1,8 @@
 ### Hi there, Mateus here! 👋
-[![Galdino Mat's github stats](https://github-readme-stats.vercel.app/api?username=GaldinoMat)](https://github.com/GaldinoMat/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaldinoMat" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaldinoMat&layout=compact" />
+</a>
