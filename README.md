@@ -4,7 +4,7 @@ Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT e
 
 My hobbies include drawing and 3D Modeling. I know it is a bit unusual, but I consider myself a jack-of-all-trades.
 
-If you want, let's connect and chat a little bit, I'm sure we will have of cool stuff to share!
+If you want, let's connect and chat a little bit, I'm sure we will have lots of cool stuff to share!
 
 See you around and let's code! 💪💻✌️
 
