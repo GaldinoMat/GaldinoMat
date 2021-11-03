@@ -1,19 +1,54 @@
-# Hi there, Mateus here! 👋
-
+<h1 align="center"> Hi there, Mateus here! 👋 </h1>
+</br>
+<p>
 Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT enthusiast. Currently I work as a Front-end Dev focused on Javascript and currently learning React/Typescript, but I can/will/learn how to do many more things before settling down.
+</p> 
 
-My hobbies include drawing and 3D Modeling. I know it is a bit unusual, but I consider myself a jack-of-all-trades.
+<p> My hobbies include drawing and 3D Modeling. I know it is a bit unusual, but I consider myself a jack-of-all-trades. </p>
 
-If you want, let's connect and chat a little bit, I'm sure we will have lots of cool stuff to share!
+<p> If you want, let's connect and chat a little bit, I'm sure we will have lots of cool stuff to share! </p>
 
-See you around and let's code! 💪💻✌️
+<p> See you around and let's code! 💪💻✌️ </p>
 
-### My stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaldinoMat" />
-</a>
+<h2 align="center"> My stats </h2>
+</br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaldinoMat" />
+  </a>
+</div>
 
-### My stacks
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaldinoMat&layout=compact" />
-</a>
+<h2 align="center"> My stacks </h2>
+</br>
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=64&color=currentColor" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://icongr.am/devicon/react-original.svg?size=64&color=currentColor" />
+  </a>
+  <a href="https://nodejs.org/en/docs/">
+    <img src="https://icongr.am/devicon/nodejs-original.svg?size=64&color=currentColor" />  
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+     <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://icongr.am/devicon/sass-original.svg?size=64&color=currentColor" />  
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" />
+  </a>
+  <a href="https://handlebarsjs.com/">
+    <img src="https://icongr.am/devicon/handlebars-original.svg?size=64&color=currentColor" />
+  </a>
+</div>
+</br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaldinoMat&layout=compact" />
+  </a>
+</div>
