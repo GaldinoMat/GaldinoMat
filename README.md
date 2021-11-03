@@ -14,7 +14,7 @@ Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT e
 </br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaldinoMat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaldinoMat&show_icons=true&count_private=true" />
   </a>
 </div>
 
