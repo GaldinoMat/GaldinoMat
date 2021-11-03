@@ -19,32 +19,43 @@ Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT e
 </div>
 
 <h2 align="center"> My stacks </h2>
-</br>
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://icongr.am/devicon/typescript-original.svg?size=64&color=currentColor" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://icongr.am/devicon/react-original.svg?size=64&color=currentColor" />
-  </a>
-  <a href="https://nodejs.org/en/docs/">
-    <img src="https://icongr.am/devicon/nodejs-original.svg?size=64&color=currentColor" />  
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-     <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" />
-  </a>
-  <a href="https://sass-lang.com/">
-    <img src="https://icongr.am/devicon/sass-original.svg?size=64&color=currentColor" />  
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-    <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" />
-  </a>
-  <a href="https://handlebarsjs.com/">
-    <img src="https://icongr.am/devicon/handlebars-original.svg?size=64&color=currentColor" />
-  </a>
+  <div>
+    <h3>Languages</h3>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://icongr.am/devicon/typescript-original.svg?size=64&color=currentColor" />
+    </a>
+  </div>
+  <div>
+    <h3>Libraries/Frameworks</h3>
+    <a href="https://reactjs.org/">
+      <img src="https://icongr.am/devicon/react-original.svg?size=64&color=currentColor" />
+    </a>
+  </div>
+  <div>
+    <h3>Back-End</h3>
+    <a href="https://nodejs.org/en/docs/">
+      <img src="https://icongr.am/devicon/nodejs-original.svg?size=64&color=currentColor" />  
+    </a>
+  </div>
+  <div>
+    <h3>Front-End</h3>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" />
+    </a>
+    <a href="https://sass-lang.com/">
+      <img src="https://icongr.am/devicon/sass-original.svg?size=64&color=currentColor" />  
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+      <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" />
+    </a>
+    <a href="https://handlebarsjs.com/">
+      <img src="https://icongr.am/devicon/handlebars-original.svg?size=64&color=currentColor" />
+    </a>
+  </div>
 </div>
 </br>
 <div align="center">
