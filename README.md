@@ -28,9 +28,6 @@ Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT e
     <a href="https://www.typescriptlang.org/">
       <img src="https://icongr.am/devicon/typescript-original.svg?size=64&color=currentColor" />
     </a>
-    <a href="https://www.oracle.com/java/">
-      <img src="https://icongr.am/devicon/java-original.svg?size=64&color=currentColor" />
-    </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
       <img src="https://icongr.am/devicon/csharp-original.svg?size=64&color=currentColor" />
     </a>
