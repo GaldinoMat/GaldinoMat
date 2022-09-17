@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, Mateus here! 👋 </h1>
 </br>
 <p>
-Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT enthusiast. Currently I work as a Front-end Dev focused on Javascript and currently learning React/Typescript, but I can/will/learn how to do many more things before settling down.
+Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT enthusiast. Currently I work as a Front-end Dev focused on Javascript and currently learning React/Typescript, but I can/will learn how to do many more things before settling down.
 </p> 
 
 <p> My hobbies include drawing and 3D Modeling. I know it is a bit unusual, but I consider myself a jack-of-all-trades. </p>
