@@ -1,71 +1,47 @@
-<h1 align="center"> Hi there, Mateus here! 👋 </h1>
-</br>
-<p>
-Hello! I am Mateus Galdino, Frond-end developer, former History teacher and IT enthusiast. Currently I work as a Front-end Dev focused on Javascript and currently learning React/Typescript, but I can/will learn how to do many more things before settling down.
-</p> 
+# Hi there! I'm [Your Name] 👋
 
-<p> My hobbies include drawing and 3D Modeling. I know it is a bit unusual, but I consider myself a jack-of-all-trades. </p>
+I'm a Front-end Developer with over 2 years of experience developing high-quality web applications. I'm passionate about using modern technologies to create innovative and scalable solutions. I have expertise in the following technologies and tools:
 
-<p> If you want, let's connect and chat a little bit, I'm sure we will have lots of cool stuff to share! </p>
+## Front-end
 
-<p> See you around and let's code! 💪💻✌️ </p>
+| Technology | Description |
+| --- | --- |
+| [React](https://reactjs.org/) | A JavaScript library for building user interfaces |
+| [Vue 3](https://v3.vuejs.org/) | A progressive JavaScript framework for building user interfaces |
+| [NextJS](https://nextjs.org/) | A React framework for server-side rendering |
+| [Redux](https://redux.js.org/) | A predictable state container for JavaScript apps |
+| [Sass](https://sass-lang.com/) | A CSS preprocessor for adding more features to CSS |
+| [Less](https://lesscss.org/) | A CSS preprocessor for adding more features to CSS |
+| [Tailwind](https://tailwindcss.com/) | A utility-first CSS framework for building responsive designs |
+| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | A popular programming language for the web |
+| [TypeScript](https://www.typescriptlang.org/) | A typed superset of JavaScript |
 
-<h2 align="center"> My stats </h2>
-</br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaldinoMat&show_icons=true&count_private=true" />
-  </a>
-</div>
+## Back-end
 
-<h2 align="center"> My stacks </h2>
-<div align="center">
-  <div>
-    <h3>Languages</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" />
-    </a>
-    <a href="https://www.typescriptlang.org/">
-      <img src="https://icongr.am/devicon/typescript-original.svg?size=64&color=currentColor" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-      <img src="https://icongr.am/devicon/csharp-original.svg?size=64&color=currentColor" />
-    </a>
-  </div>
-  <div>
-    <h3>Libraries/Frameworks</h3>
-    <a href="https://reactjs.org/">
-      <img src="https://icongr.am/devicon/react-original.svg?size=64&color=currentColor" />
-    </a>
-    <a href="https://dotnet.microsoft.com/">
-      <img src="https://icongr.am/devicon/dot-net-original.svg?size=64&color=currentColor" />
-    </a>
-  </div>
-  <div>
-    <h3>Back-End</h3>
-    <a href="https://nodejs.org/en/docs/">
-      <img src="https://icongr.am/devicon/nodejs-original.svg?size=64&color=currentColor" />  
-    </a>
-  </div>
-  <div>
-    <h3>Front-End</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" />
-    </a>
-    <a href="https://sass-lang.com/">
-      <img src="https://icongr.am/devicon/sass-original.svg?size=64&color=currentColor" />  
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-      <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" />
-    </a>
-    <a href="https://handlebarsjs.com/">
-      <img src="https://icongr.am/devicon/handlebars-original.svg?size=64&color=currentColor" />
-    </a>
-  </div>
-</div>
-</br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaldinoMat&layout=compact" />
-  </a>
-</div>
+| Technology | Description |
+| --- | --- |
+| [GraphQL](https://graphql.org/) | A query language for APIs |
+| [ApolloServer/Client](https://www.apollographql.com/) | A GraphQL implementation for servers and clients |
+| [.NET](https://dotnet.microsoft.com/) | A free, cross-platform, open source developer platform |
+| [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | A modern, object-oriented programming language |
+| [MongoDB](https://www.mongodb.com/) | A NoSQL document-oriented database |
+
+## Testing
+
+| Technology | Description |
+| --- | --- |
+| [Jest](https://jestjs.io/) | A JavaScript testing framework for unit tests |
+| [Cypress](https://www.cypress.io/) | A JavaScript testing framework for end-to-end tests |
+
+## Game engines
+
+| Technology | Description |
+| --- | --- |
+| [Unity](https://unity.com/) | A cross-platform game engine |
+| [Unreal](https://www.unrealengine.com/en-US/) | A game engine for creating high-quality, realistic games |
+
+I'm a proactive and collaborative team player who takes ownership of my projects. I have experience in leading teams and creating clean, maintainable, and scalable code. I understand the importance of creating applications with a strong architecture that is easy to understand and modify.
+
+My passion for technology and my ability to learn quickly have enabled me to deliver outstanding results in my work. I'm excited about working with dynamic teams of developers committed to creating innovative web applications. If you're looking for a skilled and experienced developer who is passionate about technology, I'd love to hear from you!
+
+Thanks for visiting my profile. You can reach me at [My Email](mailto:galdino_mateus1000@outlook.com), [My Linkedin Profile](https://www.linkedin.com/in/mateus-galdino-silva/) or [my Site](https://www.mateus-gald.dev/) to connect and discuss more about your projects.
