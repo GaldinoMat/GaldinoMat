@@ -1,6 +1,6 @@
 # Hi there! I'm Mateus Galdino! 👋
 
-I'm a Front-end Developer with over 3 years of experience developing high-quality web applications. I'm passionate about using modern technologies to create innovative and scalable solutions. I have expertise in the following technologies and tools:
+I'm a Software Engineer with over 3 years of experience developing high-quality web applications. I'm passionate about using modern technologies to create innovative and scalable solutions. I have expertise in the following technologies and tools:
 
 ## Front-end
 
